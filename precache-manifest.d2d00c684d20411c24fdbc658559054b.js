@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "browserconfig.xml"
   },
   {
-    "revision": "af85bd3198caac1e602f",
+    "revision": "86dfd55ecc4f21a03587",
     "url": "css/app.bb882518.css"
   },
   {
@@ -632,8 +632,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/shattering.99e29686.jpg"
   },
   {
-    "revision": "af85bd3198caac1e602f",
-    "url": "js/app.5752c7d8.js"
+    "revision": "86dfd55ecc4f21a03587",
+    "url": "js/app.5a1ecf8a.js"
   },
   {
     "revision": "7f0659a5a6d6cf2bfd34",
