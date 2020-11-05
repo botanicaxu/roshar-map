@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.b9f73fbf7d4a2b4ca1fa9763b7f09916.js"
+  "precache-manifest.52bfd5315a46266aaf42f9c597abfb8d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "roshar-map"});
